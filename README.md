@@ -1,4 +1,4 @@
-# scientific-calculator
+# Scientific-Calculator
 # Lovely Professional University
 Academic Project,
 Using Python programming,
